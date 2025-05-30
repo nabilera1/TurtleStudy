@@ -22,7 +22,7 @@ screen.exitonclick()
 
 
 # import turtle: turtle 모듈을 가져옵니다.
-# 
+#
 # turtle.Screen(): 그래픽 창을 생성합니다.
 #
 # turtle.Turtle(): 거북이 객체를 생성합니다.
